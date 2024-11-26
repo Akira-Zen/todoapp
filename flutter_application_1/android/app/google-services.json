@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602691091679",
+    "project_id": "thewall-3675b",
+    "storage_bucket": "thewall-3675b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602691091679:android:5ac47581ada3bef9933d6a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANduggoM1gVxzF7kIELVrAExmJHi8GIOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
